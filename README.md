@@ -1,4 +1,3 @@
-![image](https://github.com/rickyma02/chabot-hacks/assets/168311016/5fdf6b9a-a610-4d69-8e7e-d0554453f46b)
 
 
 # Chabot Hackathon Project 
