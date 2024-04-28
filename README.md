@@ -16,3 +16,4 @@
 
   But have no fear, we are here to save the day. Jump in Joy! We present Hobby Lobby (rights NOT reserved), a web and mobile application to help you do more with your time.
   
+![image](https://github.com/rickyma02/chabot-hacks/assets/168311016/00123097-9194-4be1-a1ae-b8b22b503904)
