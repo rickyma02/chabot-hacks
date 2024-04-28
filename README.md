@@ -18,4 +18,4 @@
   
 ![image](https://github.com/rickyma02/chabot-hacks/assets/168311016/00123097-9194-4be1-a1ae-b8b22b503904)
 
-# [Figma Webiste Link](https://www.figma.com/file/IGHQYxOpjNxSq87F14VzVx/Chabot-Hack---Hobby-Lobby?type=whiteboard&node-id=0-1&t=SZDMCyGCy1aMmDMr-0)
+# [Figma Website Link](https://www.figma.com/file/IGHQYxOpjNxSq87F14VzVx/Chabot-Hack---Hobby-Lobby?type=whiteboard&node-id=0-1&t=SZDMCyGCy1aMmDMr-0)
